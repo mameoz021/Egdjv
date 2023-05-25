@@ -1,1 +1,2 @@
-["mame_oz021","anlamli_icerikler21"]
+["mame_oz021"]
+["anlamli_icerikler21"]
